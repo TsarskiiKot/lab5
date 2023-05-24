@@ -3,7 +3,8 @@
 #include "cmath"
 using namespace std;
 
-//helow
+//helow 
+//privet))
 class Ustanova 
 {
 public:
